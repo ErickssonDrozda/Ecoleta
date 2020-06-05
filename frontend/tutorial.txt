@@ -1,0 +1,10 @@
+npx create-react-app frontend --template=typescript
+yarn add @types/react -D
+yarn add react-icons
+yarn add react-router-dom
+yarn add @types/react-router-dom -D
+npm install leaflet react-leaflet
+npm install @types/react-leaflet -D
+
+yarn add axios
+yarn add react-dropzone

@@ -1,0 +1,5 @@
+npm install typescript -D
+npm install ts-node -D
+npx src/server.ts
+
+npx tsc --init
