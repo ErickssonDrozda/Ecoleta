@@ -1,27 +1,29 @@
-# NLW01 - Ecoleta
-Aplicação desenvolvida durante a Next Level Week 01.
+# NEXT LEVEL WEEK - 01 
 
-## Aplicação Ecoleta
+Application developed during Next Level Week 01.
 
-### Aplicação web
-Responsável por cadastrar os pontos de coletas.
+## Ecoleta
 
-### Tela inicial
+### Web Application
+Responsible for registering the collection points.
+
+### Entry Screen
 ![alt text](https://raw.githubusercontent.com/fpuntel/NLW01/master/screenshotsTelas/web.png)
 
-### Tela cadastro
+### Register Screen
 
 ![alt text](https://raw.githubusercontent.com/fpuntel/NLW01/master/screenshotsTelas/cadastro.png)
 
-## Aplicação mobile
-Responsável por buscar locais de coletas.
+## Mobile Application
+Responsible for searching collection sites.
 
-### Tela inicial
+### Entry Screen
 
 ![alt text](https://raw.githubusercontent.com/fpuntel/NLW01/master/screenshotsTelas/teleInicial.jpeg)
 
-### Tela de pontos cadastrados
+### Registered collection points screen
 
 ![alt text](https://raw.githubusercontent.com/fpuntel/NLW01/master/screenshotsTelas/telaPoints.jpeg)
-### Tela de detalhes do ponto selecionado
+
+### Details of selected point from map screen
 ![alt text](https://raw.githubusercontent.com/fpuntel/NLW01/master/screenshotsTelas/telaDetail.jpeg)
