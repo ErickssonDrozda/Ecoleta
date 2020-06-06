@@ -1,11 +1,11 @@
 # NEXT LEVEL WEEK - 01 
 
-Application developed during Next Level Week 01.
+Application developed during Next Level Week 01.  
 Languages:  
-  Mobile: React Native with typescript.  
-  Frontend: ReactJs with typescript  
-  Backend: NodeJs witth typescript  
-  Database: Mysql  
+.   Mobile: React Native with typescript.  
+.   Frontend: ReactJs with typescript  
+.   Backend: NodeJs witth typescript  
+.   Database: Mysql  
 
 ## Ecoleta
 
