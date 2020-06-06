@@ -33,3 +33,4 @@ Responsible for searching collection sites.
 ### Details of selected point from map screen
 ![alt text](https://raw.githubusercontent.com/fpuntel/NLW01/master/screenshotsTelas/telaDetail.jpeg)
 
+This project is not available on the cloud.. but you can download the source files and try on your machine!! 
